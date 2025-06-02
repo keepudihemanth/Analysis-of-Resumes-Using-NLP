@@ -1,1 +1,1 @@
-# Analysis-of-Resumes-Using-NLP
+# Parsing-of-Resumes-Using-NLP
